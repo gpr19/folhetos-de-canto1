@@ -55,6 +55,8 @@ export const ShowAllMusics = () => {
     return <h3>Erro ao carregar dados</h3>
   }
 
+  console.log(data)
+
   return (
     <S.Container>
       <HeaderPage pageTitle="Todas as Músicas - Folhetos de Canto" />

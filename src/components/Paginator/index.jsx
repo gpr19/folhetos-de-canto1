@@ -1,7 +1,7 @@
 import { Container } from 'react-bootstrap'
 import Pagination from 'react-bootstrap/Pagination'
 
-const MAX_ITENS = 5
+const MAX_ITENS = 19
 const MAX_LEFT = (MAX_ITENS - 1) / 2
 
 export function Paginator({ limit, total, offset, setOffset }) {
