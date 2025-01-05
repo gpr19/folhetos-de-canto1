@@ -4,7 +4,7 @@ export const DATA_DEFAULT = () => [
     musics: [],
   },
   {
-    title: 'Ato Pentencial',
+    title: 'Ato Penitencial',
     musics: [],
   },
   {
